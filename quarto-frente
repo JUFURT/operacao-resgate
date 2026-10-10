@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head><meta charset="UTF-8"><title>Quarto da Frente</title>
+<style>body{font-family:monospace; background:#111; color:#eee; display:flex; justify-content:center; padding:30px} .box{border:2px solid #ff4500; padding:20px; max-width:500px; width:100%} a{display:block; border:1px solid #ff4500; padding:12px; margin:10px 0; color:#ff4500; text-decoration:none; text-align:center} a:hover{background:#ff4500; color:#000}</style>
+</head>
+<body><div class="box">
+<p><b>LOCAL ATUAL: QUARTO DA FRENTE</b></p>
+<p>Cômodo vazio, cama já queimada. Ninguém aqui.</p>
+<a href="sala-estar.html">> VOLTAR PARA A SALA DE ESTAR</a>
+<hr><a href="index.html" style="border-color:#666;color:#666">> SAIR PELA JANELA PARA A RUA</a>
+</div></body></html>
